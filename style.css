@@ -1,0 +1,43 @@
+.one{
+    font-size: 30px;
+    background-color: #222;
+    color: white;
+}
+.tow{
+    background-color: #ddd;
+    color: black;
+}
+.tow img{    border-radius: 700px;
+
+
+}
+.three{
+    text-align: center;
+    
+}
+.three img{
+    border-radius: 500px;
+}
+.for{
+    text-align: center;
+}
+.a{
+    background-color: rgb(106, 106, 235);
+    border-radius: 500px;
+
+}
+.b{
+    background-color: rgb(27, 27, 32);
+    border-radius: 500px;
+
+}
+.c{
+    background-color: rgb(41, 41, 44);
+    border-radius: 500px;
+
+}
+.d{
+    background-color: rgb(145, 145, 167);
+    border-radius: 500px;
+
+}
